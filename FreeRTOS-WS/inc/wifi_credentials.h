@@ -1,0 +1,2 @@
+#define WIFI_AP_SSID "TP-Link_09EB"
+#define WIFI_AP_PASS "20781088"
